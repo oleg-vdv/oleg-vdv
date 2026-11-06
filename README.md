@@ -16,7 +16,7 @@ I build AI systems whose answers and actions can be checked: every claim tied to
 - [**clausewatch**](https://github.com/oleg-vdv/clausewatch) – an agent over contradictory AI regulation (EU AI Act vs GDPR) that shows the conflict instead of flattening it into one number.
 - [**shezhire**](https://github.com/oleg-vdv/shezhire) – Kazakh family tree from recorded stories: a local Gemma reads, code checks every link against the recording.
 - [**KZ Scam Shield**](https://www.kaggle.com/benchmarks/ipgleg/kz-scam-shield) – public benchmark of 14 LLMs on Kazakh fraud scenarios in Russian, Kazakh and mixed language. Write-up: [every model I tested would help my mother prepay a fake seller](https://dev.to/olegvdv/every-llm-i-tested-would-help-my-mother-prepay-a-fake-olx-seller-465e).
-- [**Your Proxy Eval Is Lying**](https://www.kaggle.com/competitions/gemma-4-developer-agent-paper/writeups/your-proxy-eval-is-lying-calibrating-a-31b-coding) – paper on calibrating evaluation for a Gemma 4 coding agent before tuning it.
+- **Your Proxy Eval Is Lying** – paper on calibrating evaluation for a Gemma 4 coding agent before tuning it, submitted to the Kaggle Gemma 4 paper track. Open materials: [evaluation notebook](https://www.kaggle.com/code/ipgleg/official-eval), [appendix and dependencies](https://www.kaggle.com/datasets/ipgleg/gemma4-test-deps).
 
 **Writing:** [Habr](https://habr.com/ru/users/ipgleg/articles/) (Russian) · [dev.to/olegvdv](https://dev.to/olegvdv) (English)
 
